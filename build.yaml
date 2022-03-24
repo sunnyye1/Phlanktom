@@ -14,6 +14,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: lily58_left
+    shield: untitled_left
   - board: nrfmicro_13
-    shield: lily58_right
+    shield: untitled_right
